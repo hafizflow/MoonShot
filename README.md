@@ -3,6 +3,9 @@ An iOS app showcasing NASA's Apollo missions and the astronauts who traveled to 
 
 ---
 
+<img width="3900" height="1800" alt="Untitled design" src="https://github.com/user-attachments/assets/6d9ac976-c5cd-4307-af37-f47590a7914b" />
+
+
 ## ✨ Features
 
 - ✅ Browse all Apollo missions (1–17)  
